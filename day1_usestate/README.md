@@ -7,7 +7,7 @@
 To clone, use the following commands:
 
 ```bash
-gh repo clone https://github.com/ManishJoc14/REACT-COURSE.git --filter=blob:none --sparse day1_usestate
+ git clone https://github.com/ManishJoc14/REACT-COURSE.git; cd REACT-COURSE; git sparse-checkout init --cone; git sparse-checkout set day1_usestate; git pull origin master
 ```
 
 To run, use the following commands:
