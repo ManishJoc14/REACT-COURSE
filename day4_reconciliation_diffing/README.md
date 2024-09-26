@@ -178,7 +178,7 @@ const Parent = ({ children }) => {
 
 You can download these notes here: 
 ```bash
-https://docs.google.com/document/d/1lHN18szCMFbmfJOCASxsm0hMjdvpqVTM6hNIF0VmWCU/edit?usp=sharing
+https://docs.google.com/document/d/1lv6MOqEneIkvnUEu2oT5pbtlmfoUYFjIHr1Jj1wRWR0/edit?usp=sharing
 ```
 
 ---
