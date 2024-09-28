@@ -60,12 +60,6 @@ React's reconciliation process allows it to manipulate the real DOM only when ne
 
 ## Shallow Comparison in React
 
-Here’s the updated version of the section with clearer and more precise language:
-
----
-
-## Shallow Comparison in React
-
 React uses **shallow comparison** to determine whether a component should re-render:
 
 - **Same reference**: If the reference (either for props or state) is the same, React skips the re-render, assuming no changes have occurred.
